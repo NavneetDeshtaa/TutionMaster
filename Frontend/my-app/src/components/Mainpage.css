@@ -1,0 +1,40 @@
+*{
+    border: 0;
+    box-sizing: border-box;
+    padding: 0;
+    background-color: rgb(210, 240, 240);
+}
+
+
+.heading{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size:80px;
+    font-weight:700;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.title{
+    font-size:100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.signup{
+    width:40%;
+    height: 100%;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid rgb(252, 245, 245);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.forgot{
+    text-decoration: none;
+}
+
+.register{
+    padding:10px;
+    text-decoration: none;
+}
+

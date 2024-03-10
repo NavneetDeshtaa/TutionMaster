@@ -1,0 +1,39 @@
+.userprofile{
+    font-size:38px;
+    margin-right:850px;
+    font-weight: 900;
+    background-color: white;
+}
+
+.homeutton{
+    font-size:25px;
+    background-color: white;
+}
+
+.homiee{
+    text-decoration: none;
+    background-color: white
+}
+
+.mentordata{
+    font-size:23px;
+    font-weight:500;
+}
+
+.rightbox{
+    font-size:25px;
+}
+
+.name{
+    font-size:30px;
+}
+
+.follow{
+    font-size: 20px;
+    font-weight:600;
+}
+
+.message{
+    font-size: 20px;
+    font-weight:600;
+}
