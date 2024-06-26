@@ -1,13 +1,11 @@
-The problem TutionMaster solves:
+The problem TUTIONMASTER solves:
 
 ”Unlocking Educational Potential: Say goodbye to the struggle of finding the perfect mentor. Our platform seamlessly
 connects passionate mentors with eager students, transcending geographical boundaries and making quality education
 accessible to all.”
 
-
 CHALLENGES WE RAN INTO: 
-
-  1) Geographical Barriers”: Overcoming the challenge of connecting mentors and students,regardless of their location, through a user-friendly online platform.
+ Geographical Barriers”: Overcoming the challenge of connecting mentors and students,regardless of their location, through a user-friendly online platform.
   
 ”User Experience”: Crafting a seamless and in-tuitive user experience for both mentors and students, simplifying the process of mentor selection and communication.
 
