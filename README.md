@@ -1,17 +1,17 @@
-The problem TUTIONMASTER solves:
+ ## The problem TUTIONMASTER solves:
 
 ”Unlocking Educational Potential: Say goodbye to the struggle of finding the perfect mentor. Our platform seamlessly
 connects passionate mentors with eager students, transcending geographical boundaries and making quality education
 accessible to all.”
 
-CHALLENGES WE RAN INTO: 
+ ## CHALLENGES WE RAN INTO: 
  Geographical Barriers”: Overcoming the challenge of connecting mentors and students,regardless of their location, through a user-friendly online platform.
   
 ”User Experience”: Crafting a seamless and in-tuitive user experience for both mentors and students, simplifying the process of mentor selection and communication.
 
 Utilizing a modern tech stack, I employed a combination of front-end and back-end technologies, including HTML,CSS, JavaScript, React.js, Node.js, and MongoDB, to architect a robust and scalable web application.
 
-DEMO PICTURES :
+ ## DEMO PICTURES :
 
 1) HOME PAGE
    ![Screenshot 2024-06-26 114501](https://github.com/NavneetDeshtaa/TutionMaster/assets/124466060/d52b4752-cfc4-4587-ad38-5d858105a0dd)
