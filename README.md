@@ -12,7 +12,7 @@ accessible to all.”
 Utilizing a modern tech stack, I employed a combination of front-end and back-end technologies, including HTML,CSS, JavaScript, React.js, Node.js, and MongoDB, to architect a robust and scalable web application.
 
  ## DEMO PICTURES :
-
+ 
 1) HOME PAGE
    ![Screenshot 2024-06-26 114501](https://github.com/NavneetDeshtaa/TutionMaster/assets/124466060/d52b4752-cfc4-4587-ad38-5d858105a0dd)
 
